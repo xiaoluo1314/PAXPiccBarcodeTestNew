@@ -1,0 +1,57 @@
+码制类型@@@一维@@@Code-39（regular）20 mil@@@010820@@@Code_39_1920x1080.png
+码制类型@@@一维@@@Code 128 AUTO 30 mil@@@013230@@@Code128_AUTO_1920x1080.png
+码制类型@@@一维@@@EAN-8 30 mil@@@01013078@@@EAN_8_1920x1080.png
+码制类型@@@一维@@@EAN-13 25 mil@@@010225123453@@@EAN_13_1920x1080.png
+码制类型@@@一维@@@EAN/UCC 128 AUTO 15 mil@@@0101431500000006@@@EAN_UCC_128_AUTO_1920x1080.png
+码制类型@@@一维@@@ISBN-13 15 mil@@@013315000009@@@ISBN_13_1920x1080.png
+码制类型@@@一维@@@UPC-A 20mil@@@001032012344@@@UPC_A_1920x1080.png
+码制类型@@@一维@@@UPC-E 30mil@@@00104304@@@UPC_E_1920x1080.png
+码制类型@@@二维@@@PDF417 15mil@@@017215@@@PDF417_1920x1080.png
+码制类型@@@二维@@@QR Code 30mil@@@017130@@@QR_Code_1920x1080.png
+码制类型@@@二维@@@Data Matrix 50mil@@@017350@@@Data_Matrix_1920x1080.png
+对比度@@@一维@@@30% Code 128 30 mil@@@053230A@@@Code_128_053230A_1920x1080.png
+对比度@@@二维@@@30% QR Code 30 mil@@@057130A@@@QR_057130A_1920x1080.png
+彩色条码@@@一维@@@Code 128_空白条蓝@@@043202@@@Code_128_blankblue.png
+彩色条码@@@一维@@@Code 128_空白条绿@@@043203@@@Code_128_blankgreen.png
+彩色条码@@@一维@@@Code 128_空白条深棕@@@043204@@@Code_128_blankbrown.png
+彩色条码@@@一维@@@Code 128_空黄条黑@@@043218@@@Code_128_blankyellowblack.png
+彩色条码@@@一维@@@Code 128_空黄条蓝@@@043219@@@Code_128_blankyellowblue.png
+彩色条码@@@一维@@@Code 128_空黄条绿@@@043220@@@Code_128_blankyellowgreen.png
+彩色条码@@@一维@@@Code 128_空黄条深棕@@@043221@@@Code_128_blankyellowbrown.png
+彩色条码@@@二维@@@QR Code_空白条蓝@@@047102@@@QR_Code_blankblue.png
+彩色条码@@@二维@@@QR Code_空白条绿@@@047103@@@QR_Code_blankgreen.png
+彩色条码@@@二维@@@QR Code_空白条橙@@@047106@@@QR_Code_blankorange.png
+彩色条码@@@二维@@@QR Code_空白条红@@@047107@@@QR_Code_blankred.png
+彩色条码@@@二维@@@QR Code_空黄条黑@@@047118@@@QR_Code_blankyellowblack.png
+彩色条码@@@二维@@@QR Code_空黄条蓝@@@047119@@@QR_Code_blankyellowblue.png
+彩色条码@@@二维@@@QR Code_空黄条绿@@@047120@@@QR_Code_blankyellowgreen.png
+彩色条码@@@二维@@@QR Code_空黄条深棕@@@047121@@@QR_Code_blankyellowbrown.png
+污损案例@@@一维@@@一维条码边界污损@@@12345678@@@one_dim_boundary_stain.png
+污损案例@@@一维@@@一维条码划线污损@@@12345678123@@@one_dim_scribe_stain.png
+污损案例@@@二维@@@版本信息污损@@@022275ABC123456789edg123@@@version_info_stain.png
+污损案例@@@二维@@@边界污损（空一格）@@@022275ABC123456789edg123@@@boundary_stain.png
+污损案例@@@二维@@@定位图形污损@@@022275ABC123456789edg123@@@locate_map_stain.png
+污损案例@@@二维@@@校准图形污损@@@022275ABC123456789edg123@@@alignment_pattern_stain.png
+污损案例@@@二维@@@右上探测图+分隔符+格式信息+版本信息污损@@@022250ABC123456789EFG1234@@@right_delimter_formatinfo_versioninfo_stain.png
+污损案例@@@二维@@@最大污损率@@@022275ABC123456789edg123@@@max_rate_stain.png
+污损案例@@@二维@@@左上探测图+分隔符+格式信息污损@@@022275ABC123456789edg123@@@left_delimter_formatinfo_versioninfo_stain.png
+污损案例@@@二维@@@左下探测图+分隔符+格式信息+版本信息污损@@@022225ABCD123456789EFG123@@@leftdown_delimter_formatinfo_versioninfo_stain.png
+大数据条码@@@一维@@@code128 12mil 50Bytes@@@12345678901234567890123456789012345678901234567890@@@code128_12mil_50Bytes.png
+大数据条码@@@二维@@@QR 25mil 512Bytes@@@0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789ab@@@QR_25mil_512Bytes.png
+不同字符解码@@@一维@@@Code 128 15mil@@@0932~`!@#$%@@@Code128_002_1920x1080.png
+不同字符解码@@@二维@@@QR Code 40 mil@@@097112345678ABCDEFGHIJKLMNOPQRSTUVWXYZ`~!@#$%^&*()_+{}|:"<>?/.,';\][=-abc de fgh ijk  lmnopqrst\r\nuvwxyz\r\n@@@QR_Code_006_1920x1080.png
+胖瘦畸变@@@一维@@@lean Code 128 15mil@@@143215625789403253@@@lean_Code128_1920x1080.png
+胖瘦畸变@@@一维@@@fat Code 128 15mil@@@143215625789403253@@@fat_Code128_1920x1080.png
+胖瘦畸变@@@二维@@@lean QR Code 40 mil@@@147140986521345670@@@lean_QR_Code_1920x1080.png
+胖瘦畸变@@@二维@@@fat QR Code 40 mil@@@147140986521345670@@@fat_QR_Code_1920x1080.png
+镜像码@@@一维@@@一维左右镜像@@@143215625789403253@@@image_Code128_15mil.png
+镜像码@@@二维@@@二维左右镜像@@@147140986521345670@@@left_right_image_QR_Code_40mil.png
+镜像码@@@二维@@@二维上下镜像@@@147140986521345670@@@up_down_image_QR_Code_40mil.png
+曲面码@@@一维@@@曲面Code128@@@1432156257@@@Code128positive_1920x1080.png
+曲面码@@@二维@@@曲面QR Code@@@147140986521345670@@@QRpositive_1920x1080.png
+渐变码@@@一维@@@渐变Code128@@@PAX12345678@@@Code128_1920x1080.png
+渐变码@@@二维@@@渐变QR Code4@@@1234567890@@@QR_Code4_1920x1080.png
+渐变码@@@二维@@@渐变QR Code9@@@1234567890@@@QR_Code9_1920x1080.png
+渐变码@@@二维@@@渐变QR Code13@@@www.bctest.com@@@QR_Code13_1920x1080.png
+识别精度@@@一维@@@Code 128 10 mil@@@033210@@@Code128_033210_1920x1080.png
+识别精度@@@二维@@@QR Code 10 mil@@@037110@@@QR_Code_037110_1920x1080.png
